@@ -8,7 +8,7 @@
   <remote  name="ste"
            fetch="git://github.com/STELIX-Lollipop/"
            review="review.carbonrom.org"
-           revision="refs/heads/lp5.1"
+           revision="refs/heads/lp5.1.1"
            sync-c="true"
            sync-j="8" />
 
